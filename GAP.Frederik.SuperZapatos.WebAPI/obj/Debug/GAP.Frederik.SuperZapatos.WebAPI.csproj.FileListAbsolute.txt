@@ -1,0 +1,196 @@
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\ApplicationInsights.config
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\csc.exe
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\vbc.exe
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.WebAPI.dll.config
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.WebAPI.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.WebAPI.pdb
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\EntityFramework.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.DataAccess.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.Model.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Owin.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Razor.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\WebGrease.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.DataAccess.pdb
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Razor.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\EntityFramework.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\obj\Debug\GAP.Frederik.SuperZapatos.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\obj\Debug\GAP.Frederik.SuperZapatos.WebAPI.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\obj\Debug\GAP.Frederik.SuperZapatos.WebAPI.pdb
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\obj\Debug\GAP.Frederik.SuperZapatos.WebAPI.csprojResolveAssemblyReference.cache
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\ApplicationInsights.config
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\csc.exe
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\vbc.exe
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.WebAPI.dll.config
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.WebAPI.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.WebAPI.pdb
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Antlr3.Runtime.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\EntityFramework.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.DataAccess.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.Model.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Newtonsoft.Json.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Ninject.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Ninject.Web.Common.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Ninject.Web.Mvc.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Owin.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Helpers.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Mvc.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Optimization.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Razor.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\WebActivatorEx.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\WebApiContrib.IoC.Ninject.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\WebGrease.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.DataAccess.pdb
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Ninject.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Ninject.Web.Common.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Ninject.Web.Mvc.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Newtonsoft.Json.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Helpers.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Mvc.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Optimization.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Razor.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\EntityFramework.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\obj\Debug\GAP.Frederik.SuperZapatos.WebAPI.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.WebAPI\obj\Debug\GAP.Frederik.SuperZapatos.WebAPI.pdb

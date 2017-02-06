@@ -1,0 +1,24 @@
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.DataAccess.dll.config
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.DataAccess.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.DataAccess.pdb
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.Model.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.pdb
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.DataAccess.dll.config
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.DataAccess.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.DataAccess.pdb
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.Model.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.csprojResolveAssemblyReference.cache
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.pdb

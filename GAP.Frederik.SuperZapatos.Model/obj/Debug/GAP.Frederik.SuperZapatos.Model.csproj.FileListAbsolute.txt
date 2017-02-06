@@ -1,0 +1,10 @@
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\bin\Debug\GAP.Frederik.SuperZapatos.Model.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\bin\Debug\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.csprojResolveAssemblyReference.cache
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.dll
+C:\Users\FREDERIK\Documents\Visual Studio 2015\Projects\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\bin\Debug\GAP.Frederik.SuperZapatos.Model.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\bin\Debug\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.csprojResolveAssemblyReference.cache
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.dll
+C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.pdb
