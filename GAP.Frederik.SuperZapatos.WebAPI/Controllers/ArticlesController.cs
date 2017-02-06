@@ -6,9 +6,11 @@ using System.Web;
 using System.Web.Http;
 using GAP.Frederik.SuperZapatos.Model;
 using GAP.Frederik.SuperZapatos.Model.Factory;
+using GAP.Frederik.SuperZapatos.WebAPI.Filters;
 
 namespace GAP.Frederik.SuperZapatos.WebAPI.Controllers
 {
+    [ZapatosAPIAuthorize]
     [RoutePrefix("services/articles")]
     public class ArticlesController : ApiController
     {
