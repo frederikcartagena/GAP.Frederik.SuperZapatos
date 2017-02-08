@@ -1,0 +1,7 @@
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Common\bin\Debug\GAP.Frederik.SuperZapatos.Common.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Common\bin\Debug\GAP.Frederik.SuperZapatos.Common.pdb
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Common\obj\Debug\GAP.Frederik.SuperZapatos.Common.csprojResolveAssemblyReference.cache
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Common\obj\Debug\GAP.Frederik.SuperZapatos.Common.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Common\obj\Debug\GAP.Frederik.SuperZapatos.Common.pdb

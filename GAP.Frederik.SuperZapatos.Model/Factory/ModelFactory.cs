@@ -9,12 +9,13 @@ namespace GAP.Frederik.SuperZapatos.Model.Factory
 {
     public class ModelFactory
     {
+        #region Articles
         public ArticlesResponseModel Create(List<Article> articles)
         {
             ArticlesResponseModel model = new ArticlesResponseModel();
 
             model.total_elements = articles.Count();
-            model.articles = articles.Select(a => Create(a)).ToList();                      
+            model.articles = articles.Select(a => Create(a)).ToList();
 
             return model;
         }
@@ -32,5 +33,28 @@ namespace GAP.Frederik.SuperZapatos.Model.Factory
                 total_in_vault = article.total_in_vault
             };
         }
+        #endregion
+
+        #region Stores
+        public StoresResponseModel Create(List<Store> stores)
+        {
+            StoresResponseModel model = new StoresResponseModel();
+
+            model.total_elements = stores.Count();
+            model.stores = stores.Select(s => Create(s)).ToList();
+
+            return model;
+        }
+
+        public StoreModel Create(Store store)
+        {
+            return new StoreModel()
+            {
+                id = store.id,
+                name = store.name,
+                address = store.address
+            };
+        }
+        #endregion
     }
 }

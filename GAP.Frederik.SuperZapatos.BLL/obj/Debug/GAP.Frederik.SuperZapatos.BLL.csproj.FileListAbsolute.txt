@@ -1,0 +1,11 @@
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\bin\Debug\GAP.Frederik.SuperZapatos.BLL.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\bin\Debug\GAP.Frederik.SuperZapatos.BLL.pdb
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\bin\Debug\GAP.Frederik.SuperZapatos.Common.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\bin\Debug\GAP.Frederik.SuperZapatos.Model.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\bin\Debug\GAP.Frederik.SuperZapatos.Common.pdb
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\bin\Debug\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\obj\Debug\GAP.Frederik.SuperZapatos.BLL.csprojResolveAssemblyReference.cache
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\obj\Debug\GAP.Frederik.SuperZapatos.BLL.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.BLL\obj\Debug\GAP.Frederik.SuperZapatos.BLL.pdb

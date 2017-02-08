@@ -8,3 +8,8 @@ C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\bin\Debug\
 C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.csprojResolveAssemblyReference.cache
 C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.dll
 C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\bin\Debug\GAP.Frederik.SuperZapatos.Model.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\bin\Debug\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.csprojResolveAssemblyReference.cache
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.Model\obj\Debug\GAP.Frederik.SuperZapatos.Model.pdb

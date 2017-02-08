@@ -1,4 +1,6 @@
-﻿using System;
+﻿using GAP.Frederik.SuperZapatos.BLL;
+using GAP.Frederik.SuperZapatos.Common.Util.ErrorHandling;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,8 +10,12 @@ namespace GAP.Frederik.SuperZapatos.Controllers
 {
     public class HomeController : Controller
     {
+        ArticleBll articleBll = new ArticleBll();
+
         public ActionResult Index()
         {
+            //ISystemResponse error = new SystemResponse();
+            //var articles = articleBll.GetArticles(error);
             return View();
         }
 

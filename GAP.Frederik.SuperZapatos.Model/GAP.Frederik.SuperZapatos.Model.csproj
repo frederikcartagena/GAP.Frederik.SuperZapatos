@@ -47,6 +47,8 @@
     <Compile Include="Store.cs" />
     <Compile Include="ViewModels\ArticleModel.cs" />
     <Compile Include="ViewModels\ArticlesResponseModel.cs" />
+    <Compile Include="ViewModels\StoreModel.cs" />
+    <Compile Include="ViewModels\StoresResponseModel.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

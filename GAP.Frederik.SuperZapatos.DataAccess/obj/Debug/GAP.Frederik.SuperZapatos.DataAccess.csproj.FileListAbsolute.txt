@@ -22,3 +22,15 @@ C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\D
 C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.csprojResolveAssemblyReference.cache
 C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.dll
 C:\Personal\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.pdb
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.DataAccess.dll.config
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.DataAccess.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.DataAccess.pdb
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.Model.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\GAP.Frederik.SuperZapatos.Model.pdb
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.dll
+C:\Users\frederik.cartagena\Documents\GIT\GAP.Frederik.SuperZapatos\GAP.Frederik.SuperZapatos.DataAccess\obj\Debug\GAP.Frederik.SuperZapatos.DataAccess.pdb
